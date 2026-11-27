@@ -1,0 +1,112 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.26.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1903954faf09a68d969bb22ca8ca3c15",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "22a44e02026df8b2e40d2686ab551c5e",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "4bb44436c259ee5aeb4addd34120ab94",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "7e1f685836a048a0c6b8090c67d0de1b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "WLMY",
+      "code_hash": "61fd96fb916a118c5f8c8109a5370400",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Rynl",
+      "code_hash": "735e61ae3ff8e16e7e0312fbf9735bb9",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "Xyfi",
+      "code_hash": "af20f633df0e88e190de1ddcbbff66c3",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "VKhj",
+      "code_hash": "4c63dbba7c7527be9b6faea3d7e75825",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "pZAK",
+      "code_hash": "af20f633df0e88e190de1ddcbbff66c3",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "XIyA",
+      "code_hash": "3df1d3b3d3ec79cc10f9a29318cd5e73",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "BPxM",
+      "code_hash": "59d87c4fe00524b1fe3ba694a304c15a",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "qVgE",
+      "code_hash": "81cdf8a7681f032f579034fcc25b5570",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "EtmF",
+      "code_hash": "49093a5e7260b564c2ac31a16570135d",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "hldX",
+      "code_hash": "a7ac4af5349e6e92cebe93ed0d4bdc74",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "mZTU",
+      "code_hash": "84df4998b6f014ee1f0b158549cf89d0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "fIlB",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
